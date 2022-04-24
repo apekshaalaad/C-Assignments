@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CsharpAssign3\obj\Debug\CsharpAssign3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CsharpAssign3\obj\Debug\CsharpAssign3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CsharpAssign3\obj\Debug\CsharpAssign3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CsharpAssign3\bin\Debug\CsharpAssign3.exe.config
+C:\Users\user\source\repos\CsharpAssign3\bin\Debug\CsharpAssign3.exe
+C:\Users\user\source\repos\CsharpAssign3\bin\Debug\CsharpAssign3.pdb
+C:\Users\user\source\repos\CsharpAssign3\obj\Debug\CsharpAssign3.exe
+C:\Users\user\source\repos\CsharpAssign3\obj\Debug\CsharpAssign3.pdb
